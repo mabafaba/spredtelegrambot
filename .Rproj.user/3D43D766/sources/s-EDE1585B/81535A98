@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1645991352672.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "81535A98",
+    "lastKnownWriteTime" : 1645991776,
+    "last_content_update" : 1645991776540,
+    "path" : "~/spred/network_r6.R",
+    "project_path" : "network_r6.R",
+    "properties" : {
+        "cursorPosition" : "46,29",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

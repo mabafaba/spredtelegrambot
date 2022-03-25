@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1645991431463.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "995FB24D",
+    "lastKnownWriteTime" : 1645993151,
+    "last_content_update" : 1645993151710,
+    "path" : "~/spred/user_R6.R",
+    "project_path" : "user_R6.R",
+    "properties" : {
+        "cursorPosition" : "51,0",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

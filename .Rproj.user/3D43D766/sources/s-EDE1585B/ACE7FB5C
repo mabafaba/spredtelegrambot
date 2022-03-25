@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1645204666721.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ACE7FB5C",
+    "lastKnownWriteTime" : 1645205181,
+    "last_content_update" : 1645205181281,
+    "path" : "~/spred/./functions/keyboards.R",
+    "project_path" : "./functions/keyboards.R",
+    "properties" : {
+        "cursorPosition" : "58,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

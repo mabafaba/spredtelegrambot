@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1645199901542.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FE2B5477",
+    "lastKnownWriteTime" : 1645203483,
+    "last_content_update" : 1645991245571,
+    "path" : "~/spred/functions/network_object.R",
+    "project_path" : "functions/network_object.R",
+    "properties" : {
+        "cursorPosition" : "93,1",
+        "scrollLine" : "55"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

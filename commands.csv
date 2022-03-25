@@ -1,0 +1,37 @@
+command, tier
+help, 1
+rules, 1
+flag, 1
+feedback, 1
+
+moderatorhelp,2
+becomeuser,2
+blockuser,2
+unblockuser,2
+hidemessage,2
+unhidemessage,2
+showuser,2
+tomoderators,2
+toadmins,2
+
+adminhelp,3
+makemoderator,3
+becomeuser,3
+makemoderator,3
+makeuser,3
+setrules,3
+setname,3
+sethelp,3
+
+setadminhelp,3
+setstart,3
+
+tomoderators,3
+toeveryone,3
+toadmins,3
+tomodsandadmins,3
+
+makeadmin, 4
+becomeadmin, 4
+makemoderator, 4
+makesysadmin, 4
